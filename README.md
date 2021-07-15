@@ -7,3 +7,19 @@ Talking about the features of this system, the admin can manage the candidates, 
 The voters can also easily vote for their favorite person without having to go to the voting area. Also, the admin can easily view voting status. The design of this project is very simple so that the user won’t find any difficulties while working on it.
 
 
+ADVANTAGES:
+
+1.Time saving
+2.Working load reduced
+3.Information available at time
+4.It provide security for the data
+
+DISADVANTAGES:
+
+1.May have software issues.
+2.Chances of hacking candidate or voters account.
+3.Every voter does not have pc or net connection,so voters can even go in polling booth and vote online there.
+![image](https://user-images.githubusercontent.com/63906834/125754738-ce074396-85b1-49c0-b4dd-263384282661.png)
+
+
+
